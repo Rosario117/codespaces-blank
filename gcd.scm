@@ -1,4 +1,4 @@
-#!/usr/bin/guile-s
+#!/usr/bin/guile -s
 (define (gcd a b)
 (if (= b 0)
     0 
